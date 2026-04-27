@@ -1,18 +1,18 @@
 <?php
 session_start();
 $host = "localhost";
-$user = "u787607796_tcsmonetaryshi";
-$password = 'Tcsmonetary1234@';
-$db_name = "u787607796_tcsmonetaryshi";
+$user = "u787607796_eliteshippings";
+$password = 'Eliteshippings1234@';
+$db_name = "u787607796_eliteshippings";
 $db = mysqli_connect($host, $user, $password, $db_name);
 if (mysqli_connect_errno()) {
   die("Failed to connect with MySQL: " . mysqli_connect_error());
 }
-$site_name = "tcsmonetary";
-$site_url = 'www.tcsmonetary.online';
+$site_name = "eliteshippings";
+$site_url = 'www.eliteswiftship.online';
 $nav_config_pt = '/logistic/';
 
-$my_email = "support@tcsmonetaryshippings.online";
+$my_email = "support@eliteshippings.online";
 
 function sanitize(&$input)
 {
