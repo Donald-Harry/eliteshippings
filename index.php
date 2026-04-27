@@ -21,7 +21,8 @@
       </p>
       <div class="input-track-div">
         <form method="post" action="db/tracking.php">
-          <input type="text" name="tracking_id" id="c4" placeholder="Enter Your Tracking Number" autocomplete="on" class="tracking-box" required />
+          <input type="text" name="tracking_id" id="c4" placeholder="Enter Your Tracking Number" autocomplete="on"
+            class="tracking-box" required />
 
           <button class="track-cta" type="submit" name="">
             TRACK YOUR SHIPMENT<i class="bx bx-right-arrow-alt"></i>
@@ -69,7 +70,7 @@
         <div class="img-div">
           <img src="images/shipping7.webp" alt="" />
         </div>
-        <a href="airfreight.php" class="sol-cta">Air Cargo</a>
+        <a href="airfreight.php" class="sol-cta">Air Carg</a>
       </div>
       <div class="sub-parent">
         <div class="img-div">
@@ -95,7 +96,9 @@
     <h3 class="shipping">Shipping Solutions</h3>
     <div class="parent-div">
       <div class="img-div">
-        <img src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hpcHBpbmd8ZW58MHx8MHx8fDA%3D" alt="" class="warehouse-img" />
+        <img
+          src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hpcHBpbmd8ZW58MHx8MHx8fDA%3D"
+          alt="" class="warehouse-img" />
         <p class="img-desc">
           We've had the pleasure of experiencing the exceptional service
           provided by TcMonetary Shippings in ocean transportation. We're excited
@@ -204,7 +207,8 @@
                 <input type="text" id="fname" name="fname" placeholder="Your fullname" class="text" /><br />
               </div>
               <div class="form-name">
-                <input type="email" id="email" name="email" placeholder="Your email address" autocomplete="on" class="text" />
+                <input type="email" id="email" name="email" placeholder="Your email address" autocomplete="on"
+                  class="text" />
               </div>
             </div>
             <div class="form-block">
