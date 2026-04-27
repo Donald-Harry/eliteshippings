@@ -1799,6 +1799,7 @@ function get_wallet_addresses()
                                                             <option><?= $ship['delivering_country'] ?></option>
                                                             <option value="United States">United States</option>
                                                             <option value="United Kingdom">United Kingdom</option>
+                                                            <option value="Turkmenistan">Turkmenistan</option>
                                                             <option value="Canada">Canada</option>
                                                             <option value="Australia">Australia</option>
                                                             <option value="Germany">Germany</option>
