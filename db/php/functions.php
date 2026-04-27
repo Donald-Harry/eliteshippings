@@ -2,7 +2,7 @@
 session_start();
 $host = "localhost";
 $user = "u787607796_tcsmonetaryshi";
-$password = 'Tcmonetary1234@';
+$password = 'Tcsmonetary1234@';
 $db_name = "u787607796_tcsmonetaryshi";
 $db = mysqli_connect($host, $user, $password, $db_name);
 if (mysqli_connect_errno()) {
