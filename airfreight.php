@@ -52,7 +52,7 @@
   </section>
 
   <section class="section-2-airfreight">
-    <p class="heading-1">TcMonetary Shippings</p>
+    <p class="heading-1">Eliteshippings</p>
     <h3 class="heading-2">Our Air Freight services</h3>
 
     <div class="main-container">
@@ -153,10 +153,10 @@
   <!-- Footer Starts Here -->
   <?php include "footer.php" ?>
   <!-- Footer Ends Here -->
-  
-   <!-- Live Chat Starts Here -->
-<script src="//code.tidio.co/albqzhpghbqg7pdevpblb9ckpiqzzrri.js" async></script>
-<!-- Live Chat Ends Here -->
+
+  <!-- Live Chat Starts Here -->
+  <script src="//code.tidio.co/albqzhpghbqg7pdevpblb9ckpiqzzrri.js" async></script>
+  <!-- Live Chat Ends Here -->
 </body>
 
 </html>

@@ -28,7 +28,7 @@
   </header>
   <section class="section-1-abt">
     <p class="abt-desc">
-      <span>Welcome to TcMonetary Shippings –</span> Your Reliable Ally for
+      <span>Welcome to Eliteshippings –</span> Your Reliable Ally for
       Efficient Deliveries - Embracing the belief that each parcel carries
       more than mere objects; it encapsulates emotions, connections, and
       commitments. Fueled by our unwavering commitment to exceed expectations,
@@ -39,7 +39,7 @@
       <div class="content">
         <h3 class="story">Our Story</h3>
         <p class="description">
-          TcMonetary Shippings originated as a modest endeavor fueled by a
+          Eliteshippings originated as a modest endeavor fueled by a
           collective dedication to delivering excellence. What initially
           commenced as a grassroots project has since blossomed into a
           prominent presence within the courier industry nationwide. Our path
@@ -63,7 +63,7 @@
       <div class="content">
         <h3 class="story">Our Promise</h3>
         <p class="description">
-          At TcMonetary Shippings, our mission extends beyond mere package
+          At Eliteshippings, our mission extends beyond mere package
           delivery; we deliver a sense of trust. We recognize that behind each
           parcel lies a unique narrative, and we take great pride in being
           entrusted with its voyage. Our unwavering dedication to excellence
@@ -79,7 +79,7 @@
         <img src="images/shipping6.jfif" alt="" class="imgs" />
       </div>
       <div class="sub-parent">
-        <h3 class="choose">What Makes TcMonetary Shippings the Ideal Choice?</h3>
+        <h3 class="choose">What Makes Eliteshippings the Ideal Choice?</h3>
         <p class="desc">
           A. Dependable Delivery: Our proven history tells the story. We take
           great pride in our flawless delivery performance, guaranteeing the
@@ -123,13 +123,13 @@
       <div class="sub-parent">
         <p class="desc">
           We appreciate your interest in choosing
-          <span>TcMonetary Shippings</span> for all your delivery requirements.
+          <span>Eliteshippings</span> for all your delivery requirements.
           Whether you're an individual sending a special gift or a business
           looking to broaden its horizons, we are dedicated to offering you
           dependable, secure, and hassle-free courier services. Take a moment
           to explore our range of services, effortlessly track your packages,
           and discover the unique advantages of partnering with
-          TcMonetary Shippings.
+          Eliteshippings.
         </p>
 
         <a href="contact.php" class="cont-us">Contact Us</a>

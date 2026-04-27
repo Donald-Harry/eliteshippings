@@ -36,7 +36,7 @@
 
       <div class="cont-div">
         <h1 class="cont-address">Email Address:</h1>
-        <a class="reach-us" href="mailto:support@tcmonetaryshippings.online">support@tcmonetaryshippings.online</a>
+        <a class="reach-us" href="mailto:support@eliteswiftship.online">support@eliteswiftship.online</a>
       </div>
 
       <!-- <div class="cont-div">
@@ -46,7 +46,7 @@
 
       <div class="cont-div">
         <h1 class="cont-address">Email Address:</h1>
-        <a class="reach-us" href="mailto:support@tcmonetaryshippings.online">support@tcmonetaryshippings.online</a>
+        <a class="reach-us" href="mailto:support@eliteswiftship.online">support@eliteswiftship.online</a>
       </div>
 
       <div class="cont-div">

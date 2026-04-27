@@ -32,8 +32,8 @@ include 'livechat.php';
             </div>
 
             <div class="email">
-                <a href="mailto:support@tcmonetaryshippings.online" target="_blank"
-                    class="email-link">support@tcmonetaryshippings.online</a>
+                <a href="mailto:support@eliteswiftship.online" target="_blank"
+                    class="email-link">support@eliteswiftship.online</a>
             </div>
         </div>
         <div class="col-1-4-parent">
@@ -105,7 +105,7 @@ include 'livechat.php';
                     <input type="email" id="email" name="email" placeholder="Your email address" autocomplete="on"
                         class="text" />
 
-                    <a href="mailto:support@TcMonetary Shippingses.online" class="email-cta"><i
+                    <a href="mailto:support@eliteswiftship.online" class="email-cta"><i
                             class="fa-solid fa-right-long"></i></a>
                 </div>
 
@@ -119,6 +119,6 @@ include 'livechat.php';
                 var year = new Date();
                 document.write(year.getFullYear());
             </script>
-            TcMonetary Shippings All Rights Reserved
+            Eliteshippings All Rights Reserved
         </span></p>
 </footer>t

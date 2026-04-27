@@ -1204,9 +1204,9 @@ if ($history_result->num_rows > 0) {
                             </div>
                             <div>
                                 <p class="text-gray-400 text-sm">Email Us</p>
-                                <a href="mailto:support@tcmonetaryshippings.online"
+                                <a href="mailto:support@eliteswiftship.online"
                                     class="text-white hover:text-blue-400 transition-colors break-words">
-                                    support@tcmonetaryshippings.online
+                                    support@eliteswiftship.online
                                 </a>
                             </div>
                         </div>

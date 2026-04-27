@@ -102,7 +102,7 @@
           alt="" class="warehouse-img" />
         <p class="img-desc">
           We've had the pleasure of experiencing the exceptional service
-          provided by TcMonetary Shippings in ocean transportation. We're excited
+          provided by Eliteshippings in ocean transportation. We're excited
           to enhance our shipping collaboration with you all.
         </p>
       </div>
@@ -242,7 +242,7 @@
     <div class="container">
       <div class="content">
         <p class="div-desc">
-          I rely solely on TcMonetary Shippings for all of my shipping needs. My
+          I rely solely on Eliteshippings for all of my shipping needs. My
           customers have come to expect the outstanding shipping and handling
           of their merchandise."
         </p>
@@ -253,14 +253,14 @@
         <p class="div-desc">
           "I'd like to express my gratitude to you and your logistics team.
           Over time, I've developed a strong sense of reliance on the
-          TcMonetary Shippings team, especially during my end-of-the-day tasks."
+          Eliteshippings team, especially during my end-of-the-day tasks."
         </p>
         <h3 class="identity">Anabella Mark</h3>
         <p class="ceo">CEO, MkDev</p>
       </div>
       <div class="content">
         <p class="div-desc">
-          "I exclusively rely on TcMonetary Shippings for all my shipping
+          "I exclusively rely on Eliteshippings for all my shipping
           requirements. My customers have grown accustomed to the exceptional
           shipping and handling of their goods."
         </p>
