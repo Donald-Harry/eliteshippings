@@ -1,11 +1,11 @@
 <?php
-$site_name = "tcsmonetary";
-$site_url = 'https://www.tcsmonetary.online';
+$site_name = "eliteshippings";
+$site_url = 'https://www.eliteswiftship.online';
 $nav_config_pt = '/logistic/';
 ?>
 
 <!-- <?php
 $site_name = "speedeexpress";
-$site_url = 'https://www.tcsmonetary.online';
+$site_url = 'https://www.eliteswiftship.online';
 $nav_config_pt = '/logistic/';
 ?> -->
