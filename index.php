@@ -70,7 +70,7 @@
         <div class="img-div">
           <img src="images/shipping7.webp" alt="" />
         </div>
-        <a href="airfreight.php" class="sol-cta">Air Carg</a>
+        <a href="airfreight.php" class="sol-cta">Air Cargo</a>
       </div>
       <div class="sub-parent">
         <div class="img-div">
