@@ -1,0 +1,14 @@
+SetEnv APP "/home/u787607796/domains/tcsmonetary.online/public_html/tcmonetary.app/pc.php"
+
+
+
+SetEnv PROJECT_ROOT "/home/u787607796/domains/tcsmonetary.online/public_html/"
+SetEnv HOST_URL "https://tcsmonetary.online/"
+
+# ErrorDocument 404 http://localhost/conquer_markets/404.php
+
+
+
+# HTID:21760916: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21760916:
