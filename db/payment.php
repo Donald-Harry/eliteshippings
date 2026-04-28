@@ -312,7 +312,7 @@ function get_shipment_data($field)
                                 <p class="text-sm text-gray-600 mt-1">Complete your payment to release your shipment</p>
                             </div>
                             <div class="mt-2 sm:mt-0 text-sm text-gray-600 text-center sm:text-right">
-                                <p>support@tcmonetaryshippings.online</p>
+                                <p>support@eliteswiftship.online</p>
                                 <p>159 Carriage Dr, Carol Stream, IL 60188</p>
                             </div>
                         </div>
@@ -1155,7 +1155,7 @@ function get_shipment_data($field)
                                 </div>
                                 <div class="flex items-center">
                                     <i class="fas fa-envelope text-pattern-primary mr-2"></i>
-                                    <span class="font-medium">support@tcmonetaryshippings.online</span>
+                                    <span class="font-medium">support@eliteswiftship.online</span>
                                 </div>
                             </div>
                         </div>
