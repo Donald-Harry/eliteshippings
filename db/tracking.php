@@ -1103,7 +1103,7 @@ if ($history_result->num_rows > 0) {
                 <!-- Company Info -->
                 <div class="lg:col-span-2">
                     <div class="mb-6">
-                        <h3 class="text-xl font-semibold mb-2 text-white">Swift Express Logistics</h3>
+                        <h3 class="text-xl font-semibold mb-2 text-white">EliteShippings Logistics</h3>
                     </div>
                     <p class="text-gray-300 mb-6 leading-relaxed">
                         Premium worldwide rail logistics and transport services with headquarters and branches across
