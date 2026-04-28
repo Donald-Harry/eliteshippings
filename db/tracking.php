@@ -1234,7 +1234,7 @@ if ($history_result->num_rows > 0) {
                 <div class="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
                     <div class="text-center md:text-left">
                         <p class="text-gray-400 text-sm">
-                            Copyright &copy; <span id="currentYear"></span> Swift Express Logistics Services Limited.
+                            Copyright &copy; <span id="currentYear"></span> EliteShippings Logistics Services Limited.
                             All rights reserved.
                         </p>
                     </div>
