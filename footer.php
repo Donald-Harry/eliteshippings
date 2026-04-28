@@ -6,7 +6,7 @@ include 'livechat.php';
     <div class="display">
         <div class="footer-div">
             <!-- <img class="footer-logo" src="images/logo.jpg" alt="Company Logo" /> -->
-            <a href="#" class="footer-logo">TcMonetary Shippings</a>
+            <a href="#" class="footer-logo">EliteShippings</a>
 
             <p class="footer-desc">
                 Our foremost commitment is to guarantee the success of your business
