@@ -1608,12 +1608,12 @@ function get_wallet_addresses()
                                 $count += 1;
                                 if ($ship['status'] == 1) {
                                     $status = "PENDING";
-                                    $status1 = "SHIP";
+                                    $status1 = "SHIPPED";
                                     $status2 = "DELIVERED";
                                     $status3 = "DELETED";
                                     $status_class = "status-pending";
                                 } else if ($ship['status'] == 2) {
-                                    $status = "SHIP";
+                                    $status = "SHIPPED";
                                     $status1 = "PENDING";
                                     $status2 = "DELIVERED";
                                     $status3 = "DELETED";
@@ -1621,14 +1621,14 @@ function get_wallet_addresses()
                                 } else if ($ship['status'] == 3) {
                                     $status = "DELIVERED";
                                     $status1 = "PENDING";
-                                    $status2 = "SHIP";
+                                    $status2 = "SHIPPED";
                                     $status3 = "DELETED";
                                     $status_class = "status-delivered";
                                 } else {
                                     $status = "UNDO";
                                     $status1 = "PENDING";
                                     $status2 = "DELIVERED";
-                                    $status3 = "SHIP";
+                                    $status3 = "SHIPPED";
                                     $status_class = "status-deleted";
                                 }
                                 $real_status = $status;
